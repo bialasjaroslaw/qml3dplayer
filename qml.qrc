@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>sample_short_no_audio.mp4</file>
+        <file>sample_short.mp4</file>
+    </qresource>
+</RCC>
